@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+httpx
+pymongo
+langgraph
+langgraph-checkpoint-mongodb
+mcp
